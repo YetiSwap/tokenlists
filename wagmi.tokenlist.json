@@ -3,11 +3,11 @@
     "logoURI": "https://i.imgur.com/tt0vG2N.png",
     "version": {
       "major": 0,
-      "minor": 1,
+      "minor": 2,
       "patch": 3
     },
     "keywords": [],
-    "timestamp": "2022-01-21T21:45:00+00:00",
+    "timestamp": "2022-01-31T02:20:00+00:00",
     "tokens": [
         {
             "chainId": 11111,
@@ -24,6 +24,14 @@
             "name": "Wrapped WAGMI",
             "symbol": "WWAGMI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/subnet-evm/1d49ceba2d36dd71405eaa466c64fca8e83b996c/imgs/wagmi.png"
+        },
+{
+            "chainId": 11111,
+            "address": "0xce02466c20b2e0add736e879e522d976ef626adc",
+            "decimals": 18,
+            "name": "Tervelix",
+            "symbol": "TRVLX",
+            "logoURI": "https://yt3.ggpht.com/LgLk9ForWE19v17dvTmkZAT3ig_bzU9b6H6KVSNauqczJWsITXFRV3HdCTPJrxrWi6QC0sYElA=s900-c-k-c0x00ffffff-no-rj"
         }
     ]
   }
