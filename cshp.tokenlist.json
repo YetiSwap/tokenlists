@@ -1,0 +1,53 @@
+{
+    "name": "CSHP Token List",
+    "logoURI": "https://i.imgur.com/tt0vG2N.png",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 1
+    },
+    "keywords": [],
+    "timestamp": "2022-02-07T17:58:00+00:00",
+    "tokens": [
+        {
+            "chainId": 6942069,
+            "address": "0x063E868557cb290b9e687e1AA8B810b49F35e38f",
+            "decimals": 18,
+            "name": "cshpYetiSwap",
+            "symbol": "cshpYTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 6942069,
+            "address": "0xD602A2386EDE7ce09aF0c65A31D44D6001140B4d",
+            "decimals": 18,
+            "name": "Wrapped Gold",
+            "symbol": "W.GOLD",
+            "logoURI": "https://subnet.cryptoseals.art/assets/wgold.png"
+        },
+        {
+            "chainId": 6942069,
+            "address": "0x796E9809a9A5CFc1608e55685FFeE04761542781",
+            "decimals": 18,
+            "name": "Wrapped Essence",
+            "symbol": "W.ESSENCE",
+            "logoURI": "https://subnet.cryptoseals.art/assets/wessence.png"
+        },
+        {
+            "chainId": 11111,
+            "address": "0x1DC552DB5eA828Ad41c188f536Cc114F1B5dfE86",
+            "decimals": 18,
+            "name": "Wrapped Material",
+            "symbol": "W.MATERIAL",
+            "logoURI": "https://subnet.cryptoseals.art/assets/w.material.png"
+        },
+        {
+            "chainId": 11111,
+            "address": "0x2b601C1FA15750045bf776632Da53166782016b0",
+            "decimals": 18,
+            "name": "Wrapped CSHP",
+            "symbol": "WSCHP",
+            "logoURI": "https://subnet.cryptoseals.art/logo192.png"
+        }
+    ]
+  }
