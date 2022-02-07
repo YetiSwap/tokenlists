@@ -34,7 +34,7 @@
             "logoURI": "https://subnet.cryptoseals.art/assets/wessence.png"
         },
         {
-            "chainId": 11111,
+            "chainId": 6942069,
             "address": "0x1DC552DB5eA828Ad41c188f536Cc114F1B5dfE86",
             "decimals": 18,
             "name": "Wrapped Material",
@@ -42,7 +42,7 @@
             "logoURI": "https://subnet.cryptoseals.art/assets/w.material.png"
         },
         {
-            "chainId": 11111,
+            "chainId": 6942069,
             "address": "0x2b601C1FA15750045bf776632Da53166782016b0",
             "decimals": 18,
             "name": "Wrapped CSHP",
